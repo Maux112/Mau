@@ -1,3 +1,3 @@
 # Mau
 hola mundo
-correjido
+corregido
